@@ -11,8 +11,8 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 >* web app = dynamic nature
 
 > Web Application
->*Front End / UI ===> HTML, CSS, JS, + React
->*Back-End ===> Brain of Web App
+>* Front End / UI ===> HTML, CSS, JS, + React
+>* Back-End ===> Brain of Web App
 
 > Websites and Web Apps
 
