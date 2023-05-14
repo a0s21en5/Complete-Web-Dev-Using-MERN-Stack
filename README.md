@@ -13,6 +13,7 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 > Web Application
 >* Front End / UI ===> HTML, CSS, JS, + React
 >* Back-End ===> Brain of Web App
+>* DB Layer ===> NoSQL(MongoDB), SQL
 
 > Websites and Web Apps
 
