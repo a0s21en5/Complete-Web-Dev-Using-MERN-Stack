@@ -3,7 +3,7 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 
 # Day 1
 > What is Web
->* Web is System = doc + reso (access through internet)
+>* Web is System where document or resource can be interconnected  access through the internet
 
 > What is Web Development
 >* Development is a process for creating & building website & web app
