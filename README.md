@@ -25,9 +25,15 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 
 # Day 2    
 > Network
+
 > Internet
+
 > World Wide Web
+
 > IP Address
+
 > Browser
+
 > Browser Engine
+
 > Client and Server
