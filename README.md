@@ -22,3 +22,12 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 
 > Breaking a Web App
 > Websites and Web Apps
+
+# Day 2    
+> Network
+> Internet
+> World Wide Web
+> IP Address
+> Browser
+> Browser Engine
+> Client and Server
