@@ -69,3 +69,93 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 > Resources to Follow
 
 > HTML Comments
+
+# Day 5
+
+> what is a HTML Tag ?
+>
+ Tag Categorisation
+>
+ Semantic tags
+>
+ Formatting Tags
+>
+ Structural Tags
+>
+ Tag vs Element
+>
+ Structural Tags
+
+# Day 6
+
+> Emmet
+
+> Experimentation using Emmet
+
+> Elements Grouping
+
+> div tag
+
+> Block vs Inline Elements
+
+> List and complexity
+
+> Anchor tag Variations
+
+# Day 7
+
+What is Table ?
+
+Example 1
+
+Example 2
+
+Example 3
+
+Example 4
+
+# Day 8
+
+> What is Form ?
+
+> Form Tags
+
+> Let's Code
+
+> Form Elements
+
+> Input types
+
+# Day 9
+> Project 1
+
+> Project 2
+
+> Project 3
+
+
+# Day 10
+
+> Project 1
+
+> details/summary tags
+
+# Day 11
+
+> Project 1
+
+# Day 12
+
+> Adding Title
+
+> Adding Favicon
+
+> Adding a CSS StyleSheet
+
+> Adding a Javascript file
+
+> SEO & Meta Tag ?
+
+> Decoding Emmet Boilerplate meta tags
+
+> Adding Meta tags
