@@ -37,3 +37,35 @@ Full Stack Web Developer using MongoDB, Express, React, and Node.js.
 > Browser Engine
 
 > Client and Server
+
+# Day 3
+
+> What is Internet ?
+
+> Brief history
+
+> Need of Address
+
+> Client-Server Model
+
+> Protocol Stack and Packets
+
+> How a Packet travels over Internet ?
+
+> Router and Routing Table
+
+> Understand request for www.google.com
+
+> Protocols
+
+# Day 4
+
+> What is HTML 
+
+> Environment Setup 
+
+> First Program in HTML
+
+> Resources to Follow
+
+> HTML Comments
