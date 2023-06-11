@@ -159,3 +159,36 @@ Example 4
 > Decoding Emmet Boilerplate meta tags
 
 > Adding Meta tags
+
+### CSS
+
+# Day 13 
+
+> Ways to Add CSS 
+> Selectors in CSS
+
+# Day 14
+
+> CSS Fonts Properties
+
+> Using External/Google Fonts
+
+> CSS Colors
+
+> Revision
+
+> Developer tools Overview
+
+# Day 15
+
+> Borders
+
+> Height & Width
+
+> CSS Box Model
+
+> Padding
+
+> Margin
+
+> Universal Selector
