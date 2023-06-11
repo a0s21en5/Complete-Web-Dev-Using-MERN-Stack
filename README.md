@@ -160,11 +160,10 @@ Example 4
 
 > Adding Meta tags
 
-### CSS
-
 # Day 13 
 
 > Ways to Add CSS 
+
 > Selectors in CSS
 
 # Day 14
